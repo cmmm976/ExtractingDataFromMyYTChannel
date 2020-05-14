@@ -11,7 +11,7 @@ SCOPES = ['https://www.googleapis.com/auth/youtube']
 
 API_SERVICE_NAME = 'youtubeAnalytics'
 API_VERSION = 'v2'
-CLIENT_SECRETS_FILE = 'code_secret_client_707759244747-q9a8cohev91q75c8qskfmqmibojae7ah.apps.googleusercontent.com.json'
+CLIENT_SECRETS_FILE = 'code_secret_client_CENSORED-q9a8cohev91q75c8qskfmqmibojae7ah.apps.googleusercontent.com.json'
 RESULTS = open("myBestVideoData.json", "w")
 TEST = ''
 def get_service():
